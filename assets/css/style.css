@@ -1,0 +1,127 @@
+@font-face {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: "Avegnance Heroic Avenger Normal";
+    src: url(../css/avengeance/AVENGEANCE\ HEROIC\ AVENGER.ttf);
+}
+
+* {
+    margin: 0px auto;
+    padding: 0px;
+    font-family: 'Roboto Condensed';
+}
+
+a {
+    text-decoration: none;
+    color: #2F2F2F;
+}
+
+a:hover {
+    color: #EFA53A;
+}
+
+.cleaner {
+    clear: both;
+}
+
+.fa {
+    color: black;
+    display: flex;
+}
+
+.fa:hover {
+    color: #EFA53A;
+}
+
+nav {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #797b80;
+}
+
+h1 {
+    color: #2F2F2F;
+    font-size: 35px;
+    font-family: 'Avegnance Heroic Avenger Normal'
+}
+
+h1:hover {
+    color: #EFA53A;
+}
+
+#center {
+    padding-top: 70px;
+    padding-bottom: 50px;
+    height: 200px;
+    width: 80%;
+    font-size: 20px;
+    background-image: url('../images/most-iconic-avengers.jpg');
+    background-attachment: fixed;
+}
+
+#left {
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 270px;
+}
+
+#right {
+    width: 50%;
+    float: right;
+    text-align: center;
+    height: 100%;
+    padding-top: 270px;
+}
+
+footer {
+    font-weight: bolder;
+    height: 70px;
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    height: 40px;
+}
+
+#items-div {
+    width: 100%;
+}
+
+#moved-div {
+    width: 100%;
+}
+
+.items {
+    padding-top: 10px;
+    height: 30px;
+    display: inline-block;
+    width: 50%;
+    text-align: justify;
+}
+
+.button-div {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+.dugme {
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    font-family: 'Avegnance Heroic Avenger Normal';
+    letter-spacing: 2px;
+    padding: 7px 20px;
+    border: 2px solid #D93D27;
+    font-weight: bolder;
+}
+
+.dugme:hover {
+    background-color: #D93D27;
+    color: white;
+    transition: 0.5s;
+}

@@ -1,0 +1,65 @@
+[{
+        "id": 1,
+        "name": "Iron Man"
+    },
+    {
+        "id": 2,
+        "name": "Doctor Strange"
+    },
+    {
+        "id": 3,
+        "name": "Captain America"
+    },
+    {
+        "id": 4,
+        "name": "Black Widow"
+    },
+    {
+        "id": 5,
+        "name": "Hulk"
+    },
+    {
+        "id": 6,
+        "name": "Thor"
+    },
+    {
+        "id": 7,
+        "name": "Spiderman"
+    },
+    {
+        "id": 8,
+        "name": "Hawkeye"
+    },
+    {
+        "id": 9,
+        "name": "Star Lord"
+    },
+    {
+        "id": 10,
+        "name": "Antman"
+    },
+    {
+        "id": 11,
+        "name": "Wasp"
+    },
+    {
+        "id": 12,
+        "name": "Quicksilver"
+    },
+    {
+        "id": 13,
+        "name": "Scarlet Witch"
+    },
+    {
+        "id": 14,
+        "name": "Black Panther"
+    },
+    {
+        "id": 15,
+        "name": "Vision"
+    },
+    {
+        "id": 16,
+        "name": "Deadpool"
+    }
+]
